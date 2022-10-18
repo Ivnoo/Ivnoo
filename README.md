@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ivan, I am an Italian 🍕 I.T. student.
+- 👋 Hi, I’m Ivan, I am an Italian I.T. student 🍕
 - 
 
 <!---
